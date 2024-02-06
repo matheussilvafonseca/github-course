@@ -12,3 +12,6 @@ Gostou do curso? Quer mais? Ajude com uma doação, até um café é válido
 Ajustando o arquivo para um push
 
 vjasdjvaçsdlkvnasçvni
+
+
+Estou testando uma coisa
